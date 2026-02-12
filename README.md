@@ -22,9 +22,9 @@ As a course-style personal project, I used this notebook to practice multi-modal
 ​
 
 # Tech stack
-Multi-omics containers + modeling: scanpy, muon (MuData, mu.tl.mofa)
-​Factor interpretation: mofax (plot_r2, factor plots, weight plots)
-​Probabilistic modeling: torch, pyro (SVI / ELBO, AutoDiagonalNormal, TraceELBO)
+1. Multi-omics containers + modeling: scanpy, muon (MuData, mu.tl.mofa)
+2. ​Factor interpretation: mofax (plot_r2, factor plots, weight plots)
+3. ​Probabilistic modeling: torch, pyro (SVI / ELBO, AutoDiagonalNormal, TraceELBO)
 ​General: numpy, pandas, seaborn, matplotlib
 ​
 ​
