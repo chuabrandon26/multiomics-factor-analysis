@@ -17,7 +17,7 @@ This repository contains a completed notebook pipeline for integrating multiple 
 ​7. Implementing a compact Bayesian factor model in Pyro (SVI with AutoDiagonalNormal + TraceELBO) and evaluating reconstruction with MSE.
 
 # What I did & the purpose
-As a course-style personal project, I used this notebook to practice multi-modal integration and learn how latent factor models can connect heterogeneous omics signals to biological/clinical annotations.
+I used this notebook to practice multi-modal integration and learn how latent factor models can connect heterogeneous omics signals to biological/clinical annotations.
 ​Key learning goals were: selecting sensible likelihoods for different data types (e.g., Bernoulli for binary mutations), checking factor usefulness via variance explained, and linking sample embeddings to metadata such as IGHV and trisomy12.
 ​
 
