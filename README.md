@@ -25,7 +25,7 @@ As a course-style personal project, I used this notebook to practice multi-modal
 1. Multi-omics containers + modeling: scanpy, muon (MuData, mu.tl.mofa)
 2. ​Factor interpretation: mofax (plot_r2, factor plots, weight plots)
 3. ​Probabilistic modeling: torch, pyro (SVI / ELBO, AutoDiagonalNormal, TraceELBO)
-​General: numpy, pandas, seaborn, matplotlib
+4. General: numpy, pandas, seaborn, matplotlib
 ​
 ​
 ## Core Implementation
