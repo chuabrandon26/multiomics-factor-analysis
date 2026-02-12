@@ -1,6 +1,3 @@
-# Multiomics-factor-analysis
-Unsupervised multi-omics integration of CLL data using MOFA+ and MEFISTO to identify latent drivers of disease variation.
-
 # Multi-Modal Factor Analysis of CLL
 This repository implements a systems biology pipeline for the unsupervised integration of multi-omics data from Chronic Lymphocytic Leukemia (CLL) patients. Using Multi-Omics Factor Analysis (MOFA+), the analysis identifies latent biological drivers that are consistent across different molecular layers, including mRNA expression, DNA methylation, somatic mutations, and drug response.
 ​
